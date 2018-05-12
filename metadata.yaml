@@ -1,10 +1,16 @@
 _repo: Utvandrarehistorier_50028
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zilliacus, Konni
     gutenberg_agent_id: '45664'
     url: http://www.gutenberg.org/2009/agents/45664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50028#Utvandrarehistorier
 gutenberg_issued: '2015-09-21'
 gutenberg_type: Text
 identifiers:
